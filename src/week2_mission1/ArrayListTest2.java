@@ -1,4 +1,4 @@
-package arraylist;
+package week2_mission1;
 
 public class ArrayListTest2 {
 
