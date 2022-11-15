@@ -1,4 +1,4 @@
-package week3_mission1;
+package week3_mission1.question1;
 
 public class Red extends Member {
 
